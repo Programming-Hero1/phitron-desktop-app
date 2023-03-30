@@ -11,7 +11,7 @@
 - কমান্ডটি এপ্লিকেশন এর লেটেস্ট ভার্সন ডাউনলোড করে ইন্সটল করে ফেলবে।
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Programming-Hero1/phitron-desktop-app/main/download.sh)
+bash <(curl -s https://raw.githubusercontent.com/Programming-Hero1/phitron-desktop-app/main/phitron-install.sh)
 ```
 
 ## Phitron Desktop Application (Only for windows)
