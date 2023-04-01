@@ -1,3 +1,9 @@
+<!-- Embed Youtube Video -->
+
+## Installation Video
+
+[![Phitron Desktop Application Installation](https://img.youtube.com/vi/1wwdqKCLNyQ/0.jpg)](https://youtu.be/1wwdqKCLNyQ "Phitron Desktop Application")
+
 ## ফাইট্রন ডেস্কটপ এপ্লিকেশন (শুধুমাত্র উইন্ডোজ এর জন্য)
 
 - > যদি পিসিতে পুরাতন কোনো ভার্সন ইন্সটল করা থাকে, তাহলে অবশ্যই তা আনইন্সটল করে নিবে।
